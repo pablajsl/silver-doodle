@@ -1,1 +1,1 @@
-docs/about.markdown
+docs/awesome.markdown
