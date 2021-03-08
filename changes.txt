@@ -1,2 +1,1 @@
-.github/workflows/github-pages.yml
-docs/Gemfile.lock
+docs/about.markdown
