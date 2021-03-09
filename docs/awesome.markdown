@@ -5,3 +5,5 @@ permalink: /awesome/
 ---
 
 Awesome!
+Awesome!
+Awesome!
